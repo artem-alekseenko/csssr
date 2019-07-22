@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "pt-sans";
+  src: url("../fonts/pt-sans.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "pt-sans-bold";
+  src: url("../fonts/pt-sans-bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "courier-new";
+  src: url("../fonts/courier-new.woff") format("woff"),
+   url("../fonts/courier-new.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
