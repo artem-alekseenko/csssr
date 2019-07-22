@@ -1,0 +1,43 @@
+{
+  "name": "test_csssr",
+  "version": "1.0.0",
+  "description": "Тестовое задание по вёрстке от CSSSR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artem-alekseenko/"
+  },
+  "keywords": [
+    "test-task"
+  ],
+  "author": "Alekseenko Artem ",
+  "license": "ISC",
+  "homepage": "",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-if": "^3.0.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify-es": "^1.0.4",
+    "gulp.spritesmith": "^6.10.1",
+    "rimraf": "^2.6.3"
+  },
+  "dependencies": {
+    "normalize.scss": "^0.1.0",
+    "font-awesome": "^4.7.0"
+  },
+  "browserslist": [
+    "> 0.5%"
+  ]
+}
